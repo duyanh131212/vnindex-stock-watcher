@@ -1,3 +1,13 @@
+# Simple VNINDEX stock watcher extension 
+![Screenshot 2023-02-18 231717](https://user-images.githubusercontent.com/63649337/219922320-5f89893b-1c36-4bf1-9619-33446cd102e1.png)
+
+
+Features:
+- Realtime data update
+- Easy to use
+- Detailed information
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -26,6 +36,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
