@@ -2,7 +2,7 @@
 ![Screenshot 2023-02-18 231717](https://user-images.githubusercontent.com/63649337/219922320-5f89893b-1c36-4bf1-9619-33446cd102e1.png)
 
 
-Features:
+## Features:
 - Realtime data update
 - Easy to use
 - Detailed information
